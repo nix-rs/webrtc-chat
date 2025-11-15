@@ -1,3 +1,7 @@
+/*
+* NO USE
+*/
+
 import React from 'react';
 import styles from './page.module.scss';
 import LoginForm from "@/app/login/components/LoginForm";
