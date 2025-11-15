@@ -1,3 +1,8 @@
+/*
+* Login page
+* NO USE
+*/
+
 import React from 'react';
 import styles from './page.module.scss';
 import RegisterForm from "@/app/register/components/RegisterForm";
