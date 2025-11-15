@@ -1,3 +1,7 @@
+/*
+* TYPES : SOCKET; PEER; USER; STREAMS
+*/
+
 import {Socket as NetSocket} from 'net';
 import {Server as HTTPServer} from 'http';
 import {NextApiResponse} from 'next/types';
