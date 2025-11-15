@@ -1,5 +1,5 @@
 /*
-* Login page
+* Register page
 * NO USE
 */
 
