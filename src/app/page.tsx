@@ -1,3 +1,7 @@
+/*
+* NO USE
+*/
+
 import React from 'react';
 import JoinRoomForm from "@/components/JoinRoomForm";
 
