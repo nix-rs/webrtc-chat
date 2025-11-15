@@ -1,3 +1,9 @@
+/*
+* This is server side socket backend
+*/
+
+
+
 import { NextApiRequest } from 'next';
 import { Server as ServerIO } from 'socket.io';
 
